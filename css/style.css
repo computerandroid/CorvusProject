@@ -1,0 +1,14 @@
+.border{
+    background-color: #262626;
+}
+.site_logo{
+    width: 7%;
+    height: 7%;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.forms{
+    text-align: center;
+    margin-top: 100px;
+}
